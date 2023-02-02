@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fscarini
 - 👀 I’m interested in acquire knowledge and experience
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on (idk lol)
+- 🌱 I’m currently learning HTML/CSS and JavaScript
+- 💞️ I’m looking to collaborate on the developers community!
 - 📫 How to reach me: instagram @fscarini
 
 <!---
