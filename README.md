@@ -28,8 +28,6 @@ Ao longo deste ano, vocês verão minhas atividades crescerem nessa rede. Com pr
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fscarini&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fscarini&theme=radical)](https://git.io/streak-stats)
-
 ## 📫 Contatos
 - **E-mail**: [fernando2015lk@gmail.com](mailto:fernando2015lk@gmail.com)
 - **LinkedIn**: [F. Carini](https://www.linkedin.com/in/fscarini/)
