@@ -26,9 +26,9 @@ Ao longo deste ano, vocês verão minhas atividades crescerem nessa rede. Com pr
 
 ## 📊 Minhas Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fscarini&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fscarini&theme=radical)
 
 ## 📫 Contatos
 - **E-mail**: [fernando2015lk@gmail.com](mailto:fernando2015lk@gmail.com)
