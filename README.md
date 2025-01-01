@@ -1,16 +1,40 @@
-## Bem-vindo(a) ao meu perfil do GitHub!
+## Seja bem-vindo(a) ao meu perfil do GitHub! 👋
 
-<div>
-  <a href="https://github.com/fscarini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fscarini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fscarini&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
+Olá! me chamo Fernando Carini, sou um entusiasta da tecnologia e estou buscando aprimorar minhas habilidades com o desenvolvimento Front-end.
+🌟 Este ano (2025), estou colocando no meu coração o compromisso de subir pelo menos **um commit por dia**. Quero alcançar meu objetivo de me tornar um desenvolvedor!
+
+## 🚀 1 Commit por Dia em 2025
+Ao longo deste ano, vocês verão minhas atividades crescerem nessa rede. Com projetos pessoais e exercícios de fixação, eu tenho o objetivo de aprimorar minhas habilidades com HTML e CSS junto com algum Framework, além de me iniciar meus aprendizados com JavaScript e React logo em seguida!
+
+### Objetivos do Desafio
+- 🔄 Manter a consistência na área de desenvolvimento.
+- 📚 Aprender novas tecnologias e aperfeiçoar as que já conheço.
+- 👨🏻‍🎓 Criar um portfólio pessoal com os melhores projetos desenvolvidos durante esse período.
+
+## 🌱 No que estou Trabalhando?
+
+### ⏳ - Em desenvolvimento
+[Landing page HBO Max](https://github.com/fscarini/hbomax)
+- Uma landing page baseada no site promocional da plataforma HBO Max.
+- Com base no curso que estou trilhando, fui desafiado à criar uma réplica do site da HBO Max, com HTML e CSS puro.
+- Servindo como exercício de fixação.
+
+### ⏳ - Em desenvolvimento
+[Freelancer Pizzaria - Landing Page com Bootstrap](https://github.com/fscarini/bootstrap-pizzaria)
+- Uma lading page desenvolvida com o framewrok Bootstrap para uma pizzaria do meu bairro.
+- A página tem como objetivo fornecer informações sobre o estabelecimento, como: Localização, produtos e contato.
+
+## 📊 Minhas Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical)
+
+## 📫 Contatos
+- **E-mail**: [fernando2015lk@gmail.com](mailto:fernando2015lk@gmail.com)
+- **LinkedIn**: [F. Carini](https://www.linkedin.com/in/fscarini/)
+
+Obrigado por visitar meu perfil! Vamos fazer de 2025 um ano incrível de desenvolvimento! 🎉
 
 <!---
 fscarini/fscarini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
