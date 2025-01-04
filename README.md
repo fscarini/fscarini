@@ -5,6 +5,7 @@ Olá! me chamo Fernando Carini, sou um entusiasta da tecnologia e estou buscando
 
 ## 🚀 1 Commit por Dia em 2025
 Ao longo deste ano, vocês verão minhas atividades crescerem nessa rede. Com projetos pessoais e exercícios de fixação, eu tenho o objetivo de aprimorar minhas habilidades com HTML e CSS junto com algum Framework, além de me iniciar meus aprendizados com JavaScript e React logo em seguida!
+OBS: Numa bela manhã do dia 04/01/2025, percebi que commits feitos em repositórios forkados não são exibidos no histórico de atividades no perfil do GitHub 😭
 
 ### Objetivos do Desafio
 - 🔄 Manter a consistência na área de desenvolvimento.
