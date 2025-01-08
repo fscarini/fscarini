@@ -25,9 +25,6 @@ OBS: Numa bela manhã do dia 04/01/2025, percebi que commits feitos em repositó
 - Uma lading page desenvolvida com o framewrok Bootstrap para uma pizzaria do meu bairro.
 - A página tem como objetivo fornecer informações sobre o estabelecimento, como: Localização, produtos e contato.
 
-## 📊 Minhas Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fscarini&show_icons=true&theme=radical)
 
 ## 📫 Contatos
 - **E-mail**: [fernando2015lk@gmail.com](mailto:fernando2015lk@gmail.com)
