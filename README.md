@@ -1,9 +1,9 @@
 ## Seja bem-vindo(a) ao meu perfil do GitHub! 👋
 
 Olá! me chamo Fernando Carini, sou um entusiasta da tecnologia e estou buscando aprimorar minhas habilidades com o desenvolvimento Front-end.
-🌟 Este ano (2025), estou colocando no meu coração o compromisso de subir pelo menos **um commit por dia**. Quero alcançar meu objetivo de me tornar um desenvolvedor!
+🌟 Este ano (2025), estou colocando no meu coração o compromisso de subir pelo menos *duzentos commits no ano**. Quero alcançar meu objetivo de me tornar um desenvolvedor!
 
-## 🚀 1 Commit por Dia em 2025
+## 🚀 200 Commits em 2025
 Ao longo deste ano, vocês verão minhas atividades crescerem nessa rede. Com projetos pessoais e exercícios de fixação, eu tenho o objetivo de aprimorar minhas habilidades com HTML e CSS junto com algum Framework, além de me iniciar meus aprendizados com JavaScript e React logo em seguida!
 OBS: Numa bela manhã do dia 04/01/2025, percebi que commits feitos em repositórios forkados não são exibidos no histórico de atividades no perfil do GitHub 😭
 
