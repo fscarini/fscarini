@@ -20,7 +20,7 @@ OBS: Numa bela manhã do dia 04/01/2025, percebi que commits feitos em repositó
 - Com base no curso que estou trilhando, fui desafiado à criar uma réplica do site da HBO Max, com HTML e CSS puro.
 - Servindo como exercício de fixação.
 
-### ✅ - Em desenvolvimento
+### ✅ - Finalizado
 [Freelancer Pizzaria - Landing Page com Bootstrap](https://github.com/fscarini/bootstrap-pizzaria)
 - Uma lading page desenvolvida com o framewrok Bootstrap para uma pizzaria do meu bairro.
 - A página tem como objetivo fornecer informações sobre o estabelecimento, como: Localização, produtos e contato.
