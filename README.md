@@ -34,7 +34,7 @@ OBS: Numa bela manhã do dia 04/01/2025, percebi que commits feitos em repositó
 
 ## 📫 Contatos
 - **E-mail**: [fernando2015lk@gmail.com](mailto:fernando2015lk@gmail.com)
-- <a href="[https://www.linkedin.com/in/allysson-ryan/](https://www.linkedin.com/in/fscarini/)">
+- <a href="[Linkedin](https://www.linkedin.com/in/fscarini/)">
     <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
