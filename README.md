@@ -15,10 +15,16 @@ OBS: Numa bela manhã do dia 04/01/2025, percebi que commits feitos em repositó
 ## 🌱 No que estou Trabalhando?
 
 ### ⏳ - Em desenvolvimento
+[Consulta de usuários do GitHub](https://github.com/fscarini/github-get-user)
+- Uma página que se conecta com a API do GitHub e retorna informações do usuário.
+- Primeiro projeto separado por módulos.
+- HTML, CSS e JavaScript.
+
+
+### ✅ - Finalizado
 [Landing page HBO Max](https://github.com/fscarini/hbomax)
 - Uma landing page baseada no site promocional da plataforma HBO Max.
-- Com base no curso que estou trilhando, fui desafiado à criar uma réplica do site da HBO Max, com HTML e CSS puro.
-- Servindo como exercício de fixação.
+- Criado com HTML e CSS puro.
 
 ### ✅ - Finalizado
 [Freelancer Pizzaria - Landing Page com Bootstrap](https://github.com/fscarini/bootstrap-pizzaria)
@@ -28,7 +34,9 @@ OBS: Numa bela manhã do dia 04/01/2025, percebi que commits feitos em repositó
 
 ## 📫 Contatos
 - **E-mail**: [fernando2015lk@gmail.com](mailto:fernando2015lk@gmail.com)
-- **LinkedIn**: [F. Carini](https://www.linkedin.com/in/fscarini/)
+- <a href="[https://www.linkedin.com/in/allysson-ryan/](https://www.linkedin.com/in/fscarini/)">
+    <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 Obrigado por visitar meu perfil! Vamos fazer de 2025 um ano incrível de desenvolvimento! 🎉
 
