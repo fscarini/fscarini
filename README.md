@@ -1,6 +1,6 @@
 ## Nice to meet you! 👋
 
-Hello! My name is Fernando Carini, studying Front-End development technologies.
+Hello! My name is Fernando Carini, studying Front-End development technologies.<br>
 🌟 Throughout 2025, my main goal is to work as a professional developer and deepen my knowledge in Front-End stacks.
 
 ## 👾 Tech and Tools
