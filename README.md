@@ -18,6 +18,6 @@ Hello! My name is Fernando Carini, studying Front-End development technologies.<
 </div>
           
 ## 📫 Contact
-<a href="[Linkedin](https://www.linkedin.com/in/fscarini/)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="width: 60px; height: 40px"/>
+<a href="https://www.linkedin.com/in/fscarini/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="60" height="40"/>
 </a>
