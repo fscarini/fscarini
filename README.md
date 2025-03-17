@@ -16,6 +16,8 @@ Hello! My name is Fernando Carini, studying software development technologies.<b
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="width: 60px; height: 40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" style="width: 60px; height: 40px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="width: 60px; height: 40px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" style="width: 60px; height: 40px"/>
 </div>
           
 ## 📫 Contact
