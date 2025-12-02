@@ -1,13 +1,6 @@
 ## Nice to meet you! 👋
 
 Hello! My name is Fernando Carini, studying software development technologies.<br>
-🌟 Throughout 2025, my main goal is to work as a professional developer and deepen my knowledge.
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fscarini&show_icons=true&theme=discord_old_blurple"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fscarini&layout=compact&theme=discord_old_blurple" />
-</div>
-
 
 ## 👾 Tech and Tools
 <div>
