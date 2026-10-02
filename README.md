@@ -1,8 +1,8 @@
-## Nice to meet you! 👋
+<div align="center">
 
-Hello! My name is Fernando Carini, studying software development technologies.<br>
-  
-## 📫 Contact
-<a href="https://www.linkedin.com/in/fscarini/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="60" height="40"/>
-</a>
+# 👋 Hello, I'm Fernando!
+
+🔭 I’m a Systems Analyst currently working at Lojas Torra.<br>
+☕ I’m also learning Java and working toward my goal of becoming a Software Engineer with a focus on DevOps.<br>
+🚀 I really enjoy building things and seeing them work together smoothly. There’s something rewarding about turning ideas into functional solutions and knowing that the work I create can make a real difference and help people.
+
